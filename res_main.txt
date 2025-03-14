@@ -1,0 +1,366 @@
+Instance: 1; Status: 2; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.3489999771118164
+Instance: 2; Status: 2; Objective value: 828.0; Bound: 828.0; Optimality gap: 0.0; Runtime: 3.8329999446868896
+Instance: 3; Status: 2; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 2.118000030517578
+Instance: 4; Status: 2; Objective value: 1716.0; Bound: 1716.0; Optimality gap: 0.0; Runtime: 59.134000062942505
+Instance: 5; Status: 2; Objective value: 1143.0; Bound: 1143.0; Optimality gap: 0.0; Runtime: 65.11399984359741
+Instance: 6; Status: 2; Objective value: 1950.0; Bound: 1950.0; Optimality gap: 0.0; Runtime: 57.259000062942505
+Instance: 7; Status: 2; Objective value: 1056.0; Bound: 1056.0; Optimality gap: 0.0; Runtime: 84.74699997901917
+Instance: 8; Status: 9; Objective value: 1332.0; Bound: 1282.0; Optimality gap: 0.03753753753753754; Runtime: 900.324000120163
+Instance: 9; Status: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0810000896454
+Instance: 10; Status: 2; Objective value: 4631.0; Bound: 4631.0; Optimality gap: 0.0; Runtime: 85.53600001335144
+Instance: 11; Status: 2; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 36.301000118255615
+Instance: 12; Status: 9; Objective value: 4042.0; Bound: 4040.0000000000005; Optimality gap: 0.0004948045522017678; Runtime: 900.0920000076294
+Instance: 13; Status: 9; Objective value: 3195.0; Bound: 1347.0; Optimality gap: 0.5784037558685446; Runtime: 900.125
+Instance: 14; Status: 9; Objective value: 1280.0; Bound: 1277.0; Optimality gap: 0.00234375; Runtime: 900.0820000171661
+Instance: 15; Status: 9; Objective value: 5402.0; Bound: 3792.0; Optimality gap: 0.29803776379118846; Runtime: 900.0609998703003
+Instance: 16; Status: 9; Objective value: 3239.0; Bound: 3216.0; Optimality gap: 0.007100957085520223; Runtime: 900.066999912262
+Instance: 17; Status: 9; Objective value: 6348.0; Bound: 5732.0; Optimality gap: 0.09703843730308759; Runtime: 900.0839998722076
+Instance: 18; Status: 9; Objective value: 5269.0; Bound: 4252.0; Optimality gap: 0.19301575251470868; Runtime: 900.1500000953674
+Instance: 19; Status: 9; Objective value: 4567.0; Bound: 2926.0; Optimality gap: 0.35931683818699367; Runtime: 900.0920000076294
+Instance: 20; Status: 9; Objective value: 101347.0; Bound: 4748.0; Optimality gap: 0.953151055285307; Runtime: 900.1870000362396
+Instance: 21; Status: 9; Objective value: 202665.0; Bound: 16064.0; Optimality gap: 0.9207361902647225; Runtime: 902.9089999198914
+Instance: 22; Status: 9; Objective value: inf; Bound: 25387.0; Optimality gap: inf; Runtime: 900.0720000267029
+Instance: 23; Status: 9; Objective value: 469293.0; Bound: 143.0; Optimality gap: 0.9996952863136676; Runtime: 900.731999874115
+Instance: 24; Status: 9; Objective value: 960304.0; Bound: 1133.0; Optimality gap: 0.9988201652809944; Runtime: 905.7860000133514
+
+
+# flow control
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.5709998607635498
+Instance: 2; Objective value: 828.0; Bound: 828.0; Optimality gap: 0.0; Runtime: 0.8359999656677246
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 1.0169999599456787
+Instance: 4; Objective value: 1716.0; Bound: 1716.0; Optimality gap: 0.0; Runtime: 7.453999996185303
+Instance: 5; Objective value: 1143.0; Bound: 1143.0; Optimality gap: 0.0; Runtime: 7.203999996185303
+Instance: 6; Objective value: 1946.0; Bound: 1946.0; Optimality gap: 0.0; Runtime: 6.855000019073486
+Instance: 7; Objective value: 1052.0; Bound: 1052.0; Optimality gap: 0.0; Runtime: 13.619999885559082
+Instance: 8; Objective value: 1296.0; Bound: 1296.0; Optimality gap: 0.0; Runtime: 440.3580000400543
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0599999427795
+Instance: 10; Objective value: 4631.0; Bound: 4631.0; Optimality gap: 0.0; Runtime: 26.882999897003174
+Instance: 11; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 24.1489999294281
+Instance: 12; Objective value: 4040.0; Bound: 4040.0; Optimality gap: 0.0; Runtime: 125.33200001716614
+Instance: 13; Objective value: 2372.0; Bound: 560.0; Optimality gap: 0.7639123102866779; Runtime: 900.1200001239777
+Instance: 14; Objective value: 1278.0; Bound: 1278.0; Optimality gap: 0.0; Runtime: 166.66899991035461
+Instance: 15; Objective value: 4018.0; Bound: 3816.0; Optimality gap: 0.05027376804380289; Runtime: 900.3729999065399
+Instance: 16; Objective value: 3225.0; Bound: 3225.0; Optimality gap: 0.0; Runtime: 230.19799995422363
+Instance: 17; Objective value: 5746.0; Bound: 5746.0; Optimality gap: 0.0; Runtime: 444.9690001010895
+Instance: 18; Objective value: 4572.0; Bound: 4384.0; Optimality gap: 0.04111986001749781; Runtime: 900.9089999198914
+Instance: 19; Objective value: 3278.0; Bound: 3142.0; Optimality gap: 0.04148871262965223; Runtime: 900.2109999656677
+Instance: 20; Objective value: inf; Bound: 4162.0; Optimality gap: inf; Runtime: 903.6309998035431
+Instance: 21; Objective value: inf; Bound: -inf; Optimality gap: inf; Runtime: 900.4049999713898
+Instance: 22 ran out of memory 
+Instance: 23 ran out of memory 
+Instance: 24 ran out of memory 
+
+
+# normal
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.1770000457763672
+Instance: 2; Objective value: 828.0; Bound: 828.0; Optimality gap: 0.0; Runtime: 1.559000015258789
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 1.6700000762939453
+Instance: 4; Objective value: 1716.0; Bound: 1716.0; Optimality gap: 0.0; Runtime: 19.878000020980835
+Instance: 5; Objective value: 1143.0; Bound: 1143.0; Optimality gap: 0.0; Runtime: 128.09400010108948
+Instance: 6; Objective value: 1946.0; Bound: 1946.0; Optimality gap: 0.0; Runtime: 20.526000022888184
+Instance: 7; Objective value: 1052.0; Bound: 1052.0; Optimality gap: 0.0; Runtime: 470.21399998664856
+Instance: 8; Objective value: 1327.0; Bound: 1284.0; Optimality gap: 0.03240391861341371; Runtime: 900.1400001049042
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0659999847412
+Instance: 10; Objective value: 4631.0; Bound: 4631.0; Optimality gap: 0.0; Runtime: 59.13499999046326
+Instance: 11; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 18.312999963760376
+Instance: 12; Objective value: 4040.0; Bound: 4039.999998539422; Optimality gap: 3.61529209209885e-10; Runtime: 423.6989998817444
+Instance: 13; Objective value: 1887.0; Bound: 1348.0; Optimality gap: 0.2856385797562268; Runtime: 900.1159999370575
+Instance: 14; Objective value: 1280.0; Bound: 1278.0; Optimality gap: 0.0015625; Runtime: 900.0479998588562
+Instance: 15; Objective value: 5159.0; Bound: 3793.0; Optimality gap: 0.2647799961232797; Runtime: 900.0859999656677
+Instance: 16; Objective value: 3225.0; Bound: 3225.0; Optimality gap: 0.0; Runtime: 893.3239998817444
+Instance: 17; Objective value: 5771.0; Bound: 5735.0; Optimality gap: 0.006238086986657425; Runtime: 900.0789999961853
+Instance: 18; Objective value: 5070.0; Bound: 4353.0; Optimality gap: 0.14142011834319526; Runtime: 900.0640001296997
+Instance: 19; Objective value: 4021.0; Bound: 2927.0; Optimality gap: 0.2720716239741358; Runtime: 900.0639998912811
+Instance: 20; Objective value: 8387.0; Bound: 4749.0; Optimality gap: 0.43376654346011684; Runtime: 900.1490001678467
+Instance: 21; Objective value: 243283.0; Bound: 20916.0; Optimality gap: 0.9140260519641734; Runtime: 900.1380000114441
+Instance: 22; Objective value: inf; Bound: 26195.0; Optimality gap: inf; Runtime: 900.0859999656677
+Instance: 23; Objective value: 491895.0; Bound: 143.0; Optimality gap: 0.999709287551205; Runtime: 900.5759999752045
+Instance: 24 Out of memory
+
+
+# 0-10 removed constraint
+# one shift per day
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.18600010871887207; violations: 0
+Instance: 2; Objective value: 724.0; Bound: 724.0; Optimality gap: 0.0; Runtime: 0.127000093460083; violations: 9
+Instance: 3; Objective value: 1000.0; Bound: 1000.0; Optimality gap: 0.0; Runtime: 3.0169999599456787; violations: 3
+Instance: 4; Objective value: 1523.0; Bound: 1523.0; Optimality gap: 0.0; Runtime: 20.200000047683716; violations: 7
+Instance: 5; Objective value: 795.0; Bound: 795.0; Optimality gap: 0.0; Runtime: 69.9359998703003; violations: 10
+Instance: 6; Objective value: 1850.0; Bound: 1850.0; Optimality gap: 0.0; Runtime: 26.43500018119812; violations: 8
+Instance: 7; Objective value: 1045.0; Bound: 1045.0; Optimality gap: 0.0; Runtime: 117.44099998474121; violations: 8
+Instance: 8; Objective value: 1309.0; Bound: 1267.0; Optimality gap: 0.03208556149732621; Runtime: 900.066999912262; violations: 14
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.061999797821; violations: 7
+Instance: 10; Objective value: 4622.0; Bound: 4622.0; Optimality gap: 0.0; Runtime: 5.021000146865845; violations: 18
+Instance: 11; Objective value: 3441.0; Bound: 3441.0; Optimality gap: 0.0; Runtime: 13.398000001907349; violations: 22
+Instance: 12; Objective value: 4034.0; Bound: 4033.000000000001; Optimality gap: 0.000247892910262541; Runtime: 900.0679998397827; violations: 38
+Instance: 13; Objective value: 2400.0; Bound: 1343.000000000511; Optimality gap: 0.4404166666664538; Runtime: 900.0900001525879; violations: 66
+Instance: 14; Objective value: 1274.0; Bound: 1274.0; Optimality gap: 0.0; Runtime: 125.89499998092651; violations: 21
+Instance: 15; Objective value: 4456.0; Bound: 3776.0; Optimality gap: 0.1526032315978456; Runtime: 900.0820000171661; violations: 47
+Instance: 16; Objective value: 3197.0; Bound: 3197.0; Optimality gap: 0.0; Runtime: 96.5550000667572; violations: 30
+Instance: 17; Objective value: 5717.0; Bound: 5717.0; Optimality gap: 0.0; Runtime: 55.93400001525879; violations: 50
+Instance: 18; Objective value: 4198.0; Bound: 4198.0; Optimality gap: 0.0; Runtime: 600.3310000896454; violations: 44
+Instance: 19; Objective value: 5013.0; Bound: 2916.0; Optimality gap: 0.41831238779174146; Runtime: 900.0499999523163; violations: 47
+Instance: 20; Objective value: 4749.0; Bound: 4747.0; Optimality gap: 0.0004211412929037692; Runtime: 900.194000005722; violations: 194
+Instance: 21; Objective value: 229021.0; Bound: 20884.0; Optimality gap: 0.9088118556813567; Runtime: 900.1460001468658; violations: 590
+Instance: 22; Objective value: 283019.0; Bound: 26195.0; Optimality gap: 0.9074443765259577; Runtime: 900.1590001583099; violations: 739
+Instance: 23; Objective value: 521931.0; Bound: 146.0; Optimality gap: 0.9997202695375442; Runtime: 900.6360001564026; violations: 1190
+No solution found after 15 minutes
+
+# pre-fixed days
+Instance: 1; Objective value: 503.0; Bound: 503.0; Optimality gap: 0.0; Runtime: 0.31600022315979004; violations: 4
+Instance: 2; Objective value: 719.0; Bound: 719.0; Optimality gap: 0.0; Runtime: 0.3359999656677246; violations: 7
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 227.53600001335144; violations: 9
+Instance: 4; Objective value: 1504.0; Bound: 1504.0; Optimality gap: 0.0; Runtime: 81.31100010871887; violations: 13
+Instance: 5; Objective value: 721.0; Bound: 721.0; Optimality gap: 0.0; Runtime: 315.5880000591278; violations: 20
+Instance: 6; Objective value: 1819.0; Bound: 1819.0; Optimality gap: 0.0; Runtime: 35.86500000953674; violations: 19
+Instance: 7; Objective value: 1037.0; Bound: 1037.0; Optimality gap: 0.0; Runtime: 462.8670001029968; violations: 14
+Instance: 8; Objective value: 1268.0; Bound: 1247.0; Optimality gap: 0.016561514195583597; Runtime: 900.0569999217987; violations: 30
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0430002212524; violations: 20
+Instance: 10; Objective value: 4616.0; Bound: 4616.0; Optimality gap: 0.0; Runtime: 2.4129998683929443; violations: 43
+Instance: 11; Objective value: 3431.0; Bound: 3431.0; Optimality gap: 0.0; Runtime: 8.08899998664856; violations: 45
+Instance: 12; Objective value: 4031.0; Bound: 4031.0; Optimality gap: 0.0; Runtime: 375.5390000343323; violations: 46
+Instance: 13; Objective value: 1867.0; Bound: 1342.0; Optimality gap: 0.2811997857525442; Runtime: 900.1640000343323; violations: 107
+Instance: 14; Objective value: 1267.0; Bound: 1267.0; Optimality gap: 0.0; Runtime: 27.79699993133545; violations: 49
+Instance: 15; Objective value: 4280.0; Bound: 3766.0; Optimality gap: 0.12009345794392523; Runtime: 900.0969998836517; violations: 78
+Instance: 16; Objective value: 3177.0; Bound: 3177.0; Optimality gap: 0.0; Runtime: 27.371999979019165; violations: 64
+Instance: 17; Objective value: 5704.0; Bound: 5704.0; Optimality gap: 0.0; Runtime: 79.35399985313416; violations: 93
+Instance: 18; Objective value: 4181.0; Bound: 4181.0; Optimality gap: 0.0; Runtime: 73.7059998512268; violations: 96
+Instance: 19; Objective value: 2894.0; Bound: 2894.0; Optimality gap: 0.0; Runtime: 485.1229999065399; violations: 161
+Instance: 20; Objective value: 4743.0; Bound: 4743.0; Optimality gap: 0.0; Runtime: 144.5899999141693; violations: 462
+Instance: 21; Objective value: 198963.0; Bound: 21055.0; Optimality gap: 0.89417630413695; Runtime: 900.1280000209808; violations: 910
+Instance: 22; Objective value: 377654.0; Bound: 26191.0; Optimality gap: 0.9306481594263533; Runtime: 900.1189999580383; violations: 1049
+Instance: 23; Objective value: 474750.0; Bound: 143.0; Optimality gap: 0.9996987888362296; Runtime: 900.6039998531342; violations: 1661
+Instance: 24; Objective value: 955562.0; Bound: 1133.0; Optimality gap: 0.9988143103220932; Runtime: 904.8710000514984; violations: 2381
+
+# min-workload
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.3190000057220459; violations: 0
+Instance: 2; Objective value: 828.0; Bound: 828.0; Optimality gap: 0.0; Runtime: 1.5439999103546143; violations: 0
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 2.674999952316284; violations: 0
+Instance: 4; Objective value: 1716.0; Bound: 1716.0; Optimality gap: 0.0; Runtime: 27.799000024795532; violations: 0
+Instance: 5; Objective value: 1143.0; Bound: 1143.0; Optimality gap: 0.0; Runtime: 188.32599997520447; violations: 0
+Instance: 6; Objective value: 1946.0; Bound: 1946.0; Optimality gap: 0.0; Runtime: 17.23900008201599; violations: 0
+Instance: 7; Objective value: 1052.0; Bound: 1052.0; Optimality gap: 0.0; Runtime: 79.4670000076294; violations: 0
+Instance: 8; Objective value: 1322.0; Bound: 1275.0; Optimality gap: 0.03555219364599092; Runtime: 900.1449999809265; violations: 1440.0
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0939998626709; violations: 0
+Instance: 10; Objective value: 4627.0; Bound: 4627.0; Optimality gap: 0.0; Runtime: 109.00300002098083; violations: 2160.0
+Instance: 11; Objective value: 3412.0; Bound: 3412.0; Optimality gap: 0.0; Runtime: 9.315999984741211; violations: 17760.0
+Instance: 12; Objective value: 4039.0; Bound: 4039.0; Optimality gap: 0.0; Runtime: 486.4910001754761; violations: 1080.0
+Instance: 13; Objective value: 1695.0; Bound: 1343.0; Optimality gap: 0.20766961651917404; Runtime: 900.0570001602173; violations: 0
+Instance: 14; Objective value: 1235.0; Bound: 1235.0; Optimality gap: 0.0; Runtime: 51.5550000667572; violations: 19800.0
+Instance: 15; Objective value: 4342.0; Bound: 3760.0; Optimality gap: 0.13403961308152926; Runtime: 900.0629999637604; violations: 27000.0
+Instance: 16; Objective value: 3143.0; Bound: 3143.0; Optimality gap: 0.0; Runtime: 713.8359999656677; violations: 20760.0
+Instance: 17; Objective value: 5642.0; Bound: 5642.0; Optimality gap: 0.0; Runtime: 429.02999997138977; violations: 40080.0
+Instance: 18; Objective value: 4496.0; Bound: 4299.0; Optimality gap: 0.043816725978647685; Runtime: 900.050999879837; violations: 25200.0
+Instance: 19; Objective value: 3233.0; Bound: 2881.0; Optimality gap: 0.10887720383544695; Runtime: 900.0649998188019; violations: 30240.0
+Instance: 20; Objective value: 4178.0; Bound: 4178.0; Optimality gap: 0.0; Runtime: 56.598999977111816; violations: 302460.0
+Instance: 21; Objective value: 20419.0; Bound: 20417.0; Optimality gap: 9.79479896175131e-05; Runtime: 404.9059998989105; violations: 536340.0
+Instance: 22; Objective value: 99831.0; Bound: 25203.0; Optimality gap: 0.747543348258557; Runtime: 900.1300001144409; violations: 832800.0
+Instance: 23; Objective value: 1620808.0; Bound: 15853.0; Optimality gap: 0.9902190759176904; Runtime: 900.4089999198914; violations: 9843900.0
+Instance: 24; Objective value: 2278033.0; Bound: 1133.0; Optimality gap: 0.9995026410943125; Runtime: 903.5230000019073; violations: 13969680.0
+
+# max-workload
+Instance: 1; Objective value: 508.0; Bound: 508.0; Optimality gap: 0.0; Runtime: 0.07999992370605469; violations: 960.0
+Instance: 2; Objective value: 708.0; Bound: 708.0; Optimality gap: 0.0; Runtime: 0.07800006866455078; violations: 5280.0
+Instance: 3; Objective value: 1000.0; Bound: 1000.0; Optimality gap: 0.0; Runtime: 0.08100008964538574; violations: 4800.0
+Instance: 4; Objective value: 1716.0; Bound: 1716.0; Optimality gap: 0.0; Runtime: 26.18400001525879; violations: 0
+Instance: 5; Objective value: 1142.0; Bound: 1142.0; Optimality gap: 0.0; Runtime: 23.806999921798706; violations: 960.0
+Instance: 6; Objective value: 1933.0; Bound: 1933.0; Optimality gap: 0.0; Runtime: 8.373999834060669; violations: 8640.0
+Instance: 7; Objective value: 1028.0; Bound: 1028.0; Optimality gap: 0.0; Runtime: 3.263000011444092; violations: 12480.0
+Instance: 8; Objective value: 1264.0; Bound: 1260.0; Optimality gap: 0.0031645569620253164; Runtime: 900.0269999504089; violations: 8400.0
+Instance: 9; Objective value: 35.0; Bound: 35.0; Optimality gap: 0.0; Runtime: 0.32399988174438477; violations: 18420.0
+Instance: 10; Objective value: 4631.0; Bound: 4631.0; Optimality gap: 0.0; Runtime: 58.02500009536743; violations: 600.0
+Instance: 11; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 18.413000106811523; violations: 0
+Instance: 12; Objective value: 4025.0; Bound: 4025.0; Optimality gap: 0.0; Runtime: 90.39499998092651; violations: 21840.0
+Instance: 13; Objective value: 1340.0; Bound: 1340.0; Optimality gap: 0.0; Runtime: 82.79299998283386; violations: 39840.0
+Instance: 14; Objective value: 1278.0; Bound: 1278.0; Optimality gap: 0.0; Runtime: 631.7520000934601; violations: 0
+Instance: 15; Objective value: 5016.0; Bound: 3791.0; Optimality gap: 0.24421850079744817; Runtime: 900.1300001144409; violations: 7260.0
+Instance: 16; Objective value: 3324.0; Bound: 3217.0; Optimality gap: 0.03219013237063779; Runtime: 900.0280001163483; violations: 0
+Instance: 17; Objective value: 5966.0; Bound: 5735.0; Optimality gap: 0.03871940998994301; Runtime: 900.0859999656677; violations: 0
+Instance: 18; Objective value: 4799.0; Bound: 4357.0; Optimality gap: 0.09210252135861638; Runtime: 900.0600001811981; violations: 0
+Instance: 19; Objective value: 3884.0; Bound: 2923.0; Optimality gap: 0.24742533470648817; Runtime: 900.0809998512268; violations: 9000.0
+Instance: 20; Objective value: 8488.0; Bound: 4751.0; Optimality gap: 0.44026861451460886; Runtime: 900.3529999256134; violations: 0
+Instance: 21; Objective value: 239692.0; Bound: 20911.0; Optimality gap: 0.9127588738881565; Runtime: 900.1100001335144; violations: 900.0
+No solution found after 15 minutes
+Instance: 23; Objective value: 504140.0; Bound: 143.0; Optimality gap: 0.9997163486333162; Runtime: 900.5590000152588; violations: 24180.0
+Instance: 24; Objective value: 955329.0; Bound: 1133.0; Optimality gap: 0.9988140211382676; Runtime: 904.2360000610352; violations: 108780.0
+
+# max shifts
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.3040001392364502; violations: 0
+Instance: 2; Objective value: 826.0; Bound: 826.0; Optimality gap: 0.0; Runtime: 2.2239999771118164; violations: 7.0
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 2.9720001220703125; violations: 17.0
+Instance: 4; Objective value: 1711.0; Bound: 1711.0; Optimality gap: 0.0; Runtime: 42.75499987602234; violations: 18.0
+Instance: 5; Objective value: 1129.0; Bound: 1129.0; Optimality gap: 0.0; Runtime: 277.6380000114441; violations: 43.0
+Instance: 6; Objective value: 1932.0; Bound: 1932.0; Optimality gap: 0.0; Runtime: 44.19799995422363; violations: 59.0
+Instance: 7; Objective value: 1034.0; Bound: 1034.0; Optimality gap: 0.0; Runtime: 42.549999952316284; violations: 52.0
+Instance: 8; Objective value: 868.0; Bound: 758.0; Optimality gap: 0.12672811059907835; Runtime: 900.0629999637604; violations: 128.0
+Instance: 9; Objective value: 26.0; Bound: 26.0; Optimality gap: 0.0; Runtime: 17.991000175476074; violations: 69.0
+Instance: 10; Objective value: 4627.0; Bound: 4627.0; Optimality gap: 0.0; Runtime: 211.40199995040894; violations: 147.0
+Instance: 11; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 24.671000003814697; violations: 218.0
+Instance: 12; Objective value: 4039.0; Bound: 4039.0; Optimality gap: 0.0; Runtime: 299.70500016212463; violations: 267.0
+Instance: 13; Objective value: 1843.0; Bound: 1297.0; Optimality gap: 0.2962561041779707; Runtime: 900.0750000476837; violations: 414.0
+Instance: 14; Objective value: 950.0; Bound: 948.0; Optimality gap: 0.002105263157894737; Runtime: 900.0599999427795; violations: 149.0
+Instance: 15; Objective value: 3085.0; Bound: 1453.0; Optimality gap: 0.5290113452188007; Runtime: 900.0639998912811; violations: 295.0
+Instance: 16; Objective value: 3302.0; Bound: 3195.0; Optimality gap: 0.032404603270745; Runtime: 900.0550000667572; violations: 109.0
+Instance: 17; Objective value: 5752.0; Bound: 5734.0; Optimality gap: 0.003129346314325452; Runtime: 900.085000038147; violations: 160.0
+Instance: 18; Objective value: 5269.0; Bound: 4344.0; Optimality gap: 0.17555513380148036; Runtime: 900.079999923706; violations: 156.0
+Instance: 19; Objective value: 5686.0; Bound: 2901.0; Optimality gap: 0.48979950756243407; Runtime: 900.0800001621246; violations: 474.0
+Instance: 20; Objective value: 14956.0; Bound: 4745.0; Optimality gap: 0.6827360256753142; Runtime: 900.1419999599457; violations: 1184.0
+Instance: 21; Objective value: 311234.0; Bound: 20907.0; Optimality gap: 0.9328254625137357; Runtime: 900.1510000228882; violations: 2847.0
+No solution found after 15 minutes
+Instance: 23; Objective value: 624027.0; Bound: 143.0; Optimality gap: 0.9997708432487696; Runtime: 900.6789999008179; violations: 6237.0
+Instance: 24; Objective value: 985949.0; Bound: 1133.0; Optimality gap: 0.9988508533402843; Runtime: 905.4809999465942; violations: 8178.0
+
+# forbidden sequences
+Instance: 1; Objective value: 607.0; Bound: 607.0; Optimality gap: 0.0; Runtime: 0.3000001907348633; violations: 0
+Instance: 2; Objective value: 826.0; Bound: 826.0; Optimality gap: 0.0; Runtime: 1.3220000267028809; violations: 5
+Instance: 3; Objective value: 1001.0; Bound: 1001.0; Optimality gap: 0.0; Runtime: 2.6760001182556152; violations: 14
+Instance: 4; Objective value: 1714.0; Bound: 1714.0; Optimality gap: 0.0; Runtime: 38.120999813079834; violations: 16
+Instance: 5; Objective value: 1138.0; Bound: 1138.0; Optimality gap: 0.0; Runtime: 47.43899989128113; violations: 23
+Instance: 6; Objective value: 1941.0; Bound: 1941.0; Optimality gap: 0.0; Runtime: 6.731000185012817; violations: 39
+Instance: 7; Objective value: 949.0; Bound: 949.0; Optimality gap: 0.0; Runtime: 34.09600019454956; violations: 47
+Instance: 8; Objective value: 1272.0; Bound: 1272.0; Optimality gap: 0.0; Runtime: 681.3819999694824; violations: 50
+Instance: 9; Objective value: 439.0; Bound: 407.0; Optimality gap: 0.07289293849658314; Runtime: 900.055999994278; violations: 50
+Instance: 10; Objective value: 4631.0; Bound: 4631.0; Optimality gap: 0.0; Runtime: 133.77699995040894; violations: 100
+Instance: 11; Objective value: 3443.0; Bound: 3443.0; Optimality gap: 0.0; Runtime: 8.514999866485596; violations: 114
+Instance: 12; Objective value: 3643.0; Bound: 3643.0; Optimality gap: 0.0; Runtime: 120.73399996757507; violations: 206
+Instance: 13; Objective value: 588.0; Bound: 469.0; Optimality gap: 0.20238095238095238; Runtime: 900.1589999198914; violations: 443
+Instance: 14; Objective value: 1269.0; Bound: 1269.0; Optimality gap: 0.0; Runtime: 110.4779999256134; violations: 72
+Instance: 15; Objective value: 3867.0; Bound: 3718.0; Optimality gap: 0.03853116110680114; Runtime: 900.0549998283386; violations: 178
+Instance: 16; Objective value: 3218.0; Bound: 3218.0; Optimality gap: 0.0; Runtime: 389.99399995803833; violations: 84
+Instance: 17; Objective value: 5847.0; Bound: 5735.0; Optimality gap: 0.019155122284932442; Runtime: 900.125; violations: 174
+Instance: 18; Objective value: 5053.0; Bound: 4347.0; Optimality gap: 0.13971897882446072; Runtime: 900.1059999465942; violations: 172
+Instance: 19; Objective value: 3059.0; Bound: 2722.0; Optimality gap: 0.11016672115070285; Runtime: 900.0519998073578; violations: 228
+Instance: 20; Objective value: 5652.0; Bound: 4131.0; Optimality gap: 0.26910828025477707; Runtime: 900.2690000534058; violations: 728
+Instance: 21; Objective value: 16107.0; Bound: 11328.0; Optimality gap: 0.2967032967032967; Runtime: 900.1659998893738; violations: 2424
+Instance: 22; Objective value: 425588.0; Bound: 24123.0; Optimality gap: 0.9433184206321606; Runtime: 900.1670000553131; violations: 863
+Instance: 23; Objective value: 686407.0; Bound: 1676.0; Optimality gap: 0.9975582999590622; Runtime: 900.2460000514984; violations: 5160
+Instance: 24; Objective value: 1238087.0; Bound: 16392.0; Optimality gap: 0.9867602195968458; Runtime: 903.3499999046326; violations: 7323
+
+# max weekends
+Instance: 1; Objective value: 14.0; Bound: 14.0; Optimality gap: 0.0; Runtime: 0.0820000171661377; violations: 5
+Instance: 2; Objective value: 216.0; Bound: 216.0; Optimality gap: 0.0; Runtime: 0.625999927520752; violations: 9
+Instance: 3; Objective value: 2.0; Bound: 2.0; Optimality gap: 0.0; Runtime: 85.48000001907349; violations: 13
+Instance: 4; Objective value: 1113.0; Bound: 1113.0; Optimality gap: 0.0; Runtime: 0.7209999561309814; violations: 12
+Instance: 5; Objective value: 130.0; Bound: 130.0; Optimality gap: 0.0; Runtime: 79.35900020599365; violations: 14
+Instance: 6; Objective value: 351.0; Bound: 346.0; Optimality gap: 0.014245014245014245; Runtime: 900.0490000247955; violations: 18
+Instance: 7; Objective value: 43.0; Bound: 43.0; Optimality gap: 0.0; Runtime: 34.14400005340576; violations: 21
+Instance: 8; Objective value: 1242.0; Bound: 1242.0; Optimality gap: 0.0; Runtime: 841.1810002326965; violations: 26
+Instance: 9; Objective value: 436.0; Bound: 403.0; Optimality gap: 0.07568807339449542; Runtime: 900.0680000782013; violations: 20
+Instance: 10; Objective value: 8.0; Bound: 8.0; Optimality gap: 0.0; Runtime: 38.73599982261658; violations: 52
+Instance: 11; Objective value: 1.0; Bound: 1.0; Optimality gap: 0.0; Runtime: 1.4780001640319824; violations: 52
+Instance: 12; Objective value: 824.0; Bound: 717.0000000002412; Optimality gap: 0.12985436893174607; Runtime: 900.0770001411438; violations: 59
+Instance: 13; Objective value: 694.0; Bound: 544.0; Optimality gap: 0.21613832853025935; Runtime: 900.1610000133514; violations: 106
+Instance: 14; Objective value: 1251.0; Bound: 1251.0; Optimality gap: 0.0; Runtime: 4.3480000495910645; violations: 37
+Instance: 15; Objective value: 3956.0; Bound: 3781.0; Optimality gap: 0.0442366026289181; Runtime: 900.0859999656677; violations: 39
+Instance: 16; Objective value: 155.0; Bound: 155.0; Optimality gap: 0.0; Runtime: 84.26799988746643; violations: 46
+Instance: 17; Objective value: 44.0; Bound: 44.0; Optimality gap: 0.0; Runtime: 446.8680000305176; violations: 72
+Instance: 18; Objective value: 1088.0; Bound: 1088.0; Optimality gap: 0.0; Runtime: 825.2039999961853; violations: 67
+Instance: 19; Objective value: 47.0; Bound: 44.0; Optimality gap: 0.06382978723404255; Runtime: 900.0750000476837; violations: 108
+Instance: 20; Objective value: 764.0; Bound: 740.0; Optimality gap: 0.031413612565445025; Runtime: 900.1090002059937; violations: 284
+Instance: 21; Objective value: 70960.0; Bound: 1545.0; Optimality gap: 0.9782271702367531; Runtime: 900.1640000343323; violations: 562
+No solution found after 15 minutes
+Instance: 23; Objective value: 445916.0; Bound: 0.0; Optimality gap: 1.0; Runtime: 900.6229999065399; violations: 976
+Instance: 24; Objective value: 924972.0; Bound: 859.0; Optimality gap: 0.9990713232400549; Runtime: 903.5080001354218; violations: 1395
+
+# cover requirements
+Instance: 1; Objective value: 0.0; Bound: 0.0; Optimality gap: 0.0; Runtime: 0.023000001907348633; violations: 0
+Instance: 2; Objective value: 9.0; Bound: 9.0; Optimality gap: 0.0; Runtime: 0.04399991035461426; violations: 0
+Instance: 3; Objective value: 0.0; Bound: 0.0; Optimality gap: 0.0; Runtime: 0.05800008773803711; violations: 0
+Instance: 4; Objective value: 2.0; Bound: 2.0; Optimality gap: 0.0; Runtime: 0.0709998607635498; violations: 0
+Instance: 5; Objective value: 8.0; Bound: 8.0; Optimality gap: 0.0; Runtime: 0.11900019645690918; violations: 0
+Instance: 6; Objective value: 7.0; Bound: 7.0; Optimality gap: 0.0; Runtime: 0.15600013732910156; violations: 0
+Instance: 7; Objective value: 10.0; Bound: 10.0; Optimality gap: 0.0; Runtime: 0.15200018882751465; violations: 0
+Instance: 8; Objective value: 42.0; Bound: 42.0; Optimality gap: 0.0; Runtime: 0.38499999046325684; violations: 0
+Instance: 9; Objective value: 38.0; Bound: 38.0; Optimality gap: 0.0; Runtime: 0.3210000991821289; violations: 0
+Instance: 10; Objective value: 12.0; Bound: 12.0; Optimality gap: 0.0; Runtime: 0.4140000343322754; violations: 0
+Instance: 11; Objective value: 11.0; Bound: 11.0; Optimality gap: 0.0; Runtime: 0.4790000915527344; violations: 0
+Instance: 12; Objective value: 9.0; Bound: 9.0; Optimality gap: 0.0; Runtime: 1.180999994277954; violations: 0
+Instance: 13; Objective value: 217.0; Bound: 217.0; Optimality gap: 0.0; Runtime: 3.9680001735687256; violations: 0
+Instance: 14; Objective value: 21.0; Bound: 21.0; Optimality gap: 0.0; Runtime: 0.5290000438690186; violations: 0
+Instance: 15; Objective value: 133.0; Bound: 133.0; Optimality gap: 0.0; Runtime: 1.191999912261963; violations: 0
+Instance: 16; Objective value: 24.0; Bound: 24.0; Optimality gap: 0.0; Runtime: 0.41899991035461426; violations: 0
+Instance: 17; Objective value: 19.0; Bound: 19.0; Optimality gap: 0.0; Runtime: 0.8559999465942383; violations: 0
+Instance: 18; Objective value: 17.0; Bound: 17.0; Optimality gap: 0.0; Runtime: 1.3070001602172852; violations: 0
+Instance: 19; Objective value: 31.0; Bound: 31.0; Optimality gap: 0.0; Runtime: 4.02400016784668; violations: 0
+Instance: 20; Objective value: 77.0; Bound: 77.0; Optimality gap: 0.0; Runtime: 24.872999906539917; violations: 0
+Instance: 21; Objective value: 987.0; Bound: 987.0; Optimality gap: 0.0; Runtime: 30.074999809265137; violations: 0
+Instance: 22; Objective value: 140.0; Bound: 122.0; Optimality gap: 0.12857142857142856; Runtime: 901.087000131607; violations: 0
+Instance: 23; Objective value: 1638.0; Bound: 1638.0; Optimality gap: 0.0; Runtime: 43.99799990653992; violations: 0
+Instance: 24; Objective value: 2982.0; Bound: 2982.0; Optimality gap: 0.0; Runtime: 190.64699983596802; violations: 0
+
+# max consecutive days on
+Instance: 1; Objective value: 405.0; Bound: 405.0; Optimality gap: 0.0; Runtime: 0.02200007438659668; violations: 72
+Instance: 2; Objective value: 719.0; Bound: 719.0; Optimality gap: 0.0; Runtime: 0.05099987983703613; violations: 126
+Instance: 3; Objective value: 1000.0; Bound: 1000.0; Optimality gap: 0.0; Runtime: 0.17799997329711914; violations: 175
+Instance: 4; Objective value: 1206.0; Bound: 1206.0; Optimality gap: 0.0; Runtime: 0.09299993515014648; violations: 230
+Instance: 5; Objective value: 704.0; Bound: 704.0; Optimality gap: 0.0; Runtime: 0.34799981117248535; violations: 362
+Instance: 6; Objective value: 1911.0; Bound: 1911.0; Optimality gap: 0.0; Runtime: 0.7569999694824219; violations: 409
+Instance: 7; Objective value: 1028.0; Bound: 1028.0; Optimality gap: 0.0; Runtime: 2.6589999198913574; violations: 455
+Instance: 8; Objective value: 1241.0; Bound: 1241.0; Optimality gap: 0.0; Runtime: 162.79699993133545; violations: 683
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0539999008179; violations: 834
+Instance: 10; Objective value: 4612.0; Bound: 4612.0; Optimality gap: 0.0; Runtime: 0.5950000286102295; violations: 920
+Instance: 11; Objective value: 3427.0; Bound: 3427.0; Optimality gap: 0.0; Runtime: 2.0169999599456787; violations: 1140
+Instance: 12; Objective value: 4029.0; Bound: 4029.0; Optimality gap: 0.0; Runtime: 13.01200008392334; violations: 1370
+Instance: 13; Objective value: 1454.0; Bound: 1337.0; Optimality gap: 0.08046767537826685; Runtime: 900.1570000648499; violations: 2750
+Instance: 14; Objective value: 1260.0; Bound: 1260.0; Optimality gap: 0.0; Runtime: 3.36899995803833; violations: 1177
+Instance: 15; Objective value: 3767.0; Bound: 3766.0000000000564; Optimality gap: 0.000265463233327213; Runtime: 900.0439999103546; violations: 1655
+Instance: 16; Objective value: 3163.0; Bound: 3163.0; Optimality gap: 0.0; Runtime: 0.5779998302459717; violations: 1020
+Instance: 17; Objective value: 5692.0; Bound: 5692.0; Optimality gap: 0.0; Runtime: 5.418999910354614; violations: 1634
+Instance: 18; Objective value: 4170.0; Bound: 4170.0; Optimality gap: 0.0; Runtime: 2.495000123977661; violations: 1742
+Instance: 19; Objective value: 2870.0; Bound: 2870.0; Optimality gap: 0.0; Runtime: 33.871999979019165; violations: 3164
+Instance: 20; Objective value: 4685.0; Bound: 4685.0; Optimality gap: 0.0; Runtime: 43.324000120162964; violations: 8845
+Instance: 21; Objective value: 84447.0; Bound: 20994.0; Optimality gap: 0.7513943656968276; Runtime: 900.114000082016; violations: 17690
+Instance: 22; Objective value: 26163.0; Bound: 26163.0; Optimality gap: 0.0; Runtime: 742.6909999847412; violations: 17950
+Instance: 23; Objective value: 480945.0; Bound: 143.0; Optimality gap: 0.9997026687043217; Runtime: 900.8529999256134; violations: 35900
+Instance: 24; Objective value: 947397.0; Bound: 1133.0; Optimality gap: 0.9988040916321247; Runtime: 903.4960000514984; violations: 53840
+
+# min consecutive days on
+Instance: 1; Objective value: 508.0; Bound: 508.0; Optimality gap: 0.0; Runtime: 0.15199995040893555; violations: 2
+Instance: 2; Objective value: 827.0; Bound: 827.0; Optimality gap: 0.0; Runtime: 1.6100001335144043; violations: 3
+Instance: 3; Objective value: 1000.0; Bound: 1000.0; Optimality gap: 0.0; Runtime: 1.4909999370574951; violations: 4
+Instance: 4; Objective value: 1715.0; Bound: 1715.0; Optimality gap: 0.0; Runtime: 47.88600015640259; violations: 7
+Instance: 5; Objective value: 1037.0; Bound: 1037.0; Optimality gap: 0.0; Runtime: 154.17399978637695; violations: 4
+Instance: 6; Objective value: 1940.0; Bound: 1940.0; Optimality gap: 0.0; Runtime: 14.476999998092651; violations: 8
+Instance: 7; Objective value: 1050.0; Bound: 1050.0; Optimality gap: 0.0; Runtime: 173.83700013160706; violations: 8
+Instance: 8; Objective value: 1304.0; Bound: 1280.0; Optimality gap: 0.018404907975460124; Runtime: 900.1270000934601; violations: 10
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0629999637604; violations: 17
+Instance: 10; Objective value: 4627.0; Bound: 4627.0; Optimality gap: 0.0; Runtime: 111.24699997901917; violations: 23
+Instance: 11; Objective value: 3440.0; Bound: 3440.0; Optimality gap: 0.0; Runtime: 13.325000047683716; violations: 31
+Instance: 12; Objective value: 4027.0; Bound: 4027.0; Optimality gap: 0.0; Runtime: 461.5329999923706; violations: 51
+Instance: 13; Objective value: 1775.0; Bound: 1340.0; Optimality gap: 0.24507042253521127; Runtime: 900.1899998188019; violations: 104
+Instance: 14; Objective value: 1273.0; Bound: 1273.0; Optimality gap: 0.0; Runtime: 128.04500007629395; violations: 20
+Instance: 15; Objective value: 4695.0; Bound: 3796.0; Optimality gap: 0.19148029818956336; Runtime: 900.1470000743866; violations: 70
+Instance: 16; Objective value: 3227.0; Bound: 3217.0; Optimality gap: 0.0030988534242330336; Runtime: 900.0609998703003; violations: 12
+Instance: 17; Objective value: 5841.0; Bound: 5734.0; Optimality gap: 0.018318781030645437; Runtime: 900.0939998626709; violations: 20
+Instance: 18; Objective value: 4978.0; Bound: 4360.0; Optimality gap: 0.1241462434712736; Runtime: 900.0590000152588; violations: 14
+Instance: 19; Objective value: 4950.0; Bound: 2917.0; Optimality gap: 0.4107070707070707; Runtime: 900.1050000190735; violations: 67
+Instance: 20; Objective value: 13463.0; Bound: 4749.0; Optimality gap: 0.6472554408378519; Runtime: 900.1229999065399; violations: 110
+Instance: 21; Objective value: 192696.0; Bound: 21045.0; Optimality gap: 0.89078652385104; Runtime: 900.1439998149872; violations: 815
+Instance: 22; Objective value: 623653.0; Bound: 26195.000000000004; Optimality gap: 0.9579974761606214; Runtime: 900.2230000495911; violations: 100
+Instance: 23; Objective value: 596787.0; Bound: 143.0; Optimality gap: 0.9997603835204185; Runtime: 900.5739998817444; violations: 2002
+Instance: 24; Objective value: 1141643.0; Bound: 1133.0; Optimality gap: 0.9990075706678883; Runtime: 903.2940001487732; violations: 4368
+
+# min consecutive days off
+Instance: 1; Objective value: 405.0; Bound: 405.0; Optimality gap: 0.0; Runtime: 0.051999807357788086; violations: 10
+Instance: 2; Objective value: 719.0; Bound: 719.0; Optimality gap: 0.0; Runtime: 0.029999971389770508; violations: 11
+Instance: 3; Objective value: 1000.0; Bound: 1000.0; Optimality gap: 0.0; Runtime: 0.051000118255615234; violations: 32
+Instance: 4; Objective value: 1206.0; Bound: 1206.0; Optimality gap: 0.0; Runtime: 0.08700013160705566; violations: 20
+Instance: 5; Objective value: 705.0; Bound: 705.0; Optimality gap: 0.0; Runtime: 0.18600010871887207; violations: 59
+Instance: 6; Objective value: 1908.0; Bound: 1908.0; Optimality gap: 0.0; Runtime: 0.21399998664855957; violations: 57
+Instance: 7; Objective value: 1025.0; Bound: 1025.0; Optimality gap: 0.0; Runtime: 0.7009999752044678; violations: 52
+Instance: 8; Objective value: 1236.0; Bound: 1236.0; Optimality gap: 0.0; Runtime: 2.806999921798706; violations: 95
+Instance: 9; Objective value: 439.0; Bound: 406.0; Optimality gap: 0.07517084282460136; Runtime: 900.0629999637604; violations: 67
+Instance: 10; Objective value: 4617.0; Bound: 4617.0; Optimality gap: 0.0; Runtime: 0.7879998683929443; violations: 90
+Instance: 11; Objective value: 3432.0; Bound: 3432.0; Optimality gap: 0.0; Runtime: 1.511000156402588; violations: 126
+Instance: 12; Objective value: 4031.0; Bound: 4031.0; Optimality gap: 0.0; Runtime: 4.79200005531311; violations: 158
+Instance: 13; Objective value: 1332.0; Bound: 1328.0000000000077; Optimality gap: 0.003003003002997199; Runtime: 900.1799998283386; violations: 248
+Instance: 14; Objective value: 1268.0; Bound: 1268.0; Optimality gap: 0.0; Runtime: 1.946000099182129; violations: 108
+Instance: 15; Objective value: 3758.0; Bound: 3758.0; Optimality gap: 0.0; Runtime: 84.72900009155273; violations: 170
+Instance: 16; Objective value: 3176.0; Bound: 3176.0; Optimality gap: 0.0; Runtime: 0.7020001411437988; violations: 87
+Instance: 17; Objective value: 5709.0; Bound: 5709.0; Optimality gap: 0.0; Runtime: 3.05400013923645; violations: 166
+Instance: 18; Objective value: 4181.0; Bound: 4181.0; Optimality gap: 0.0; Runtime: 2.7970001697540283; violations: 172
+Instance: 19; Objective value: 2896.0; Bound: 2896.0; Optimality gap: 0.0; Runtime: 32.98399996757507; violations: 232
+Instance: 20; Objective value: 4731.0; Bound: 4731.0; Optimality gap: 0.0; Runtime: 30.09999990463257; violations: 679
+Instance: 21; Objective value: 20936.0; Bound: 20934.0; Optimality gap: 9.552923194497516e-05; Runtime: 526.7479999065399; violations: 1264
+Instance: 22; Objective value: 26226.0; Bound: 26224.0; Optimality gap: 7.626019980172348e-05; Runtime: 773.5069999694824; violations: 1478
+Instance: 23; Objective value: 448634.0; Bound: 143.0; Optimality gap: 0.9996812546530134; Runtime: 900.9409999847412; violations: 3081
+Instance: 24; Objective value: 1265329.0; Bound: 1133.0; Optimality gap: 0.9991045807058876; Runtime: 903.4049999713898; violations: 3535
