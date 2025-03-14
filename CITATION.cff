@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Jansen
+    given-names: Robin L. S.
+title: "Exploration of the nurse rostering problem using column generation"
+date-released: 2025-03-14
